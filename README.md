@@ -11,8 +11,7 @@
 ## `[ 01 ]` ABOUT ME
 
 ```
-สวัสดี! ผมชื่อ Sojjyuu — developer ที่ชอบสร้างสิ่งที่ทั้งสวยงาม และใช้งานได้จริง
-หลงใหลใน UI/UX design ชอบ anime โดยเฉพาะ Persona series 🎭
+Hey — I'm Sojjyuu, a developer + designer based in Khon Kaen, TH. I love building things that are both visually sharp and actually functional. Passionate about UI/UX and side projects of all kinds — from web apps to bots that make life easier. Heavily inspired by anime, especially the Persona series — hence the aesthetic.
 ```
 
 <div align="center">
