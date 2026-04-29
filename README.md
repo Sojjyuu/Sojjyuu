@@ -1,6 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0ab8d8&height=180&section=header&text=SOJJYUU&fontSize=72&fontColor=080808&animation=fadeIn&desc=DEVELOPER%20%26%20CREATOR&descSize=18&descAlignY=78&descAlign=50)
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=72&duration=3000&pause=1000&color=0AB8D8&center=true&vCenter=true&width=600&height=120&lines=SOJJYUU" alt="SOJJYUU" />
+
+<img src="https://readme-typing-svg.demolab.com?font=monospace&size=14&duration=2000&pause=500&color=E8829A&center=true&vCenter=true&width=500&height=30&lines=DEVELOPER+%26+CREATOR" alt="subtitle" />
 
 ### `LOCAL / SOJJYUU.DEV` &nbsp;•&nbsp; 🩷 OPEN TO OPPORTUNITIES &nbsp;•&nbsp; `STATUS: ACTIVE`
 
@@ -22,7 +24,7 @@ Heavily inspired by anime, especially the Persona series — hence the aesthetic
 
 | `STATUS` | `LOCATION` | `STACK` | `OPEN TO` |
 |:---:|:---:|:---:|:---:|
-| 🩷 ACTIVE | TH, MAHA SARAKHAM | HTML · JS · Flutter · C# | Collabs & Opps |
+| 🩷 ACTIVE | TH, KHON KAEN | HTML · JS · Flutter · C# | Collabs & Opps |
 
 </div>
 
@@ -97,7 +99,5 @@ Cross-platform mobile app — iOS & Android
 ---
 
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0ab8d8&height=100&section=footer&text=SOJJ%20%C2%B7%20YUU&fontSize=22&fontColor=080808&animation=fadeIn)
-
+<sub>SOJJ · YUU &nbsp;///&nbsp; BUILT WITH PERSONA ENERGY 🎭</sub>
 </div>
