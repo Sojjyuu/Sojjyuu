@@ -84,10 +84,10 @@ Cross-platform mobile app — iOS & Android
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sojjyuu)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sojjyuu)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/smth_yu/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Sojjyuu)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sojjyuu)
-[![Website](https://img.shields.io/badge/Website-0ab8d8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sojjyuu.github.io)
+[![Website](https://img.shields.io/badge/Website-0ab8d8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sojjyuu.github.io/)
 
 </div>
 
