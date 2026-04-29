@@ -1,34 +1,6 @@
 <div align="center">
 
-<!-- BANNER SVG -->
-<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="slashGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0ab8d8;stop-opacity:0.15"/>
-      <stop offset="100%" style="stop-color:#e8829a;stop-opacity:0.1"/>
-    </linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#0ab8d8" stroke-width="0.4" opacity="0.25"/>
-    </pattern>
-  </defs>
-  <!-- bg -->
-  <rect width="800" height="200" fill="#080808"/>
-  <!-- grid -->
-  <rect width="800" height="200" fill="url(#grid)"/>
-  <!-- slash accent -->
-  <polygon points="420,0 800,0 800,200 320,200" fill="url(#slashGrad)"/>
-  <!-- scan lines -->
-  <rect width="800" height="200" fill="none" stroke="#000" stroke-width="0"/>
-  <!-- big text -->
-  <text x="50" y="115" font-family="'Bebas Neue', Impact, sans-serif" font-size="90" fill="#f2f2f2" letter-spacing="4">SOJJ</text>
-  <text x="50" y="185" font-family="'Bebas Neue', Impact, sans-serif" font-size="45" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.3" letter-spacing="4">YUU</text>
-  <!-- subtitle -->
-  <text x="52" y="155" font-family="monospace" font-size="11" fill="#e8829a" letter-spacing="6">DEVELOPER &amp; CREATOR</text>
-  <!-- right info -->
-  <text x="730" y="80" font-family="monospace" font-size="9" fill="#0ab8d8" opacity="0.7" text-anchor="end">● OPEN TO OPPORTUNITIES</text>
-  <text x="730" y="130" font-family="monospace" font-size="9" fill="rgba(255,255,255,0.25)" text-anchor="end">BASED IN TH</text>
-  <text x="730" y="150" font-family="monospace" font-size="9" fill="rgba(255,255,255,0.25)" text-anchor="end">/// FULL-STACK DEV + DESIGNER</text>
-</svg>
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:0a3a42,100:080808&height=200&section=header&text=SOJJYUU&fontSize=80&fontFamily=Bebas%20Neue&fontColor=f2f2f2&animation=fadeIn&desc=DEVELOPER%20%26%20CREATOR&descSize=16&descAlignY=75&descAlign=50&stroke=0ab8d8&strokeWidth=1)
 
 </div>
 
@@ -53,7 +25,7 @@ LOCAL / SOJJYUU.DEV          ● OPEN TO OPPORTUNITIES          STATUS: ACTIVE
 
 | KEY | VALUE |
 |-----|-------|
-| `STATUS` | 🟣 ACTIVE |
+| `STATUS` | 🩷 ACTIVE |
 | `LOCATION` | TH, MAHA SARAKHAM |
 | `MAIN STACK` | HTML · JS · Flutter · C# |
 | `INTERESTS` | Dev · Design · Anime |
@@ -133,10 +105,6 @@ Cross-platform mobile app พัฒนาด้วย Flutter — iOS & Android
 
 <div align="center">
 
-```
-SOJJ · YUU  ///  © 2025 — BUILT WITH PERSONA ENERGY
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sojjyuu&color=0ab8d8&style=flat-square&label=PROFILE+VIEWS)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:0a3a42,100:080808&height=100&section=footer&text=SOJJ%20%C2%B7%20YUU&fontSize=20&fontFamily=Bebas%20Neue&fontColor=e8829a&animation=fadeIn)
 
 </div>
