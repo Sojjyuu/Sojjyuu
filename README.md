@@ -6,19 +6,15 @@
 
 ### `LOCAL / SOJJYUU.DEV` &nbsp;•&nbsp; 🩷 OPEN TO OPPORTUNITIES &nbsp;•&nbsp; `STATUS: ACTIVE`
 
+![Profile Views](https://komarev.com/ghpvc/?username=Sojjyuu&color=0ab8d8&style=flat-square&label=PROFILE+VIEWS)
+
 </div>
 
 ---
 
 ## `[ 01 ]` ABOUT ME
 
-```
-Hey — I'm Sojjyuu, a developer + designer based in Khon Kaen, TH.
-I love building things that are both visually sharp and actually functional.
-Passionate about UI/UX and side projects of all kinds —
-from web apps to bots that make life easier.
-Heavily inspired by anime, especially the Persona series — hence the aesthetic.
-```
+<img src="https://readme-typing-svg.demolab.com?font=monospace&size=13&duration=2500&pause=800&color=FFFFFF&multiline=true&width=700&height=120&lines=Hey+—+I'm+Sojjyuu%2C+a+developer+%2B+designer+based+in+Khon+Kaen%2C+TH.;I+love+building+things+that+are+visually+sharp+and+functional.;Passionate+about+UI%2FUX+and+all+kinds+of+side+projects.;Heavily+inspired+by+anime+—+especially+the+Persona+series+🎭" alt="typing bio" />
 
 <div align="center">
 
@@ -63,7 +59,41 @@ Heavily inspired by anime, especially the Persona series — hence the aesthetic
 
 ---
 
-## `[ 04 ]` SIDE PROJECTS
+## `[ 04 ]` TROPHIES
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Sojjyuu&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)
+
+</div>
+
+---
+
+## `[ 05 ]` CONTRIBUTION
+
+<div align="center">
+
+![contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Sojjyuu&bg_color=0d1117&color=0ab8d8&line=0ab8d8&point=e8829a&area=true&hide_border=true)
+
+</div>
+
+> 🐍 **Snake animation** — ต้องตั้ง GitHub Actions แยก ดูวิธีด้านล่าง
+
+---
+
+## `[ 06 ]` NOW PLAYING
+
+<div align="center">
+
+[![spotify](https://novatorem-sojjyuu.vercel.app/api/spotify)](https://open.spotify.com/user/sojjyuu)
+
+> 🎵 **Spotify widget** — ต้อง deploy [novatorem](https://github.com/novatorem/novatorem) ด้วย Vercel แยก ดูวิธีด้านล่าง
+
+</div>
+
+---
+
+## `[ 07 ]` SIDE PROJECTS
 
 ```
 PROJECT // 01 · FEATURED ─────────────────────────────────────────
@@ -85,7 +115,7 @@ Cross-platform mobile app — iOS & Android
 
 ---
 
-## `[ 05 ]` SOCIALS
+## `[ 08 ]` SOCIALS
 
 <div align="center">
 
