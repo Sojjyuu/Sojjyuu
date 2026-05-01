@@ -17,7 +17,7 @@
 > Hey — I'm **Sojjyuu**, a developer + designer based in Khon Kaen, TH.
 > I love building things that are both visually sharp and actually functional.
 > Passionate about UI/UX and side projects of all kinds — from web apps to bots that make life easier.
-> Heavily inspired by anime, especially the **Persona series** — hence the aesthetic. 🎭
+> Heavily inspired by anime, especially the **Persona series** — hence the aesthetic. 
 
 <div align="center">
 
