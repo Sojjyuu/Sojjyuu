@@ -14,7 +14,10 @@
 
 ## `[ 01 ]` ABOUT ME
 
-<img src="https://readme-typing-svg.demolab.com?font=monospace&size=13&duration=2500&pause=800&color=FFFFFF&multiline=true&width=700&height=120&lines=Hey+—+I'm+Sojjyuu%2C+a+developer+%2B+designer+based+in+Khon+Kaen%2C+TH.;I+love+building+things+that+are+visually+sharp+and+functional.;Passionate+about+UI%2FUX+and+all+kinds+of+side+projects.;Heavily+inspired+by+anime+—+especially+the+Persona+series+🎭" alt="typing bio" />
+> Hey — I'm **Sojjyuu**, a developer + designer based in Khon Kaen, TH.
+> I love building things that are both visually sharp and actually functional.
+> Passionate about UI/UX and side projects of all kinds — from web apps to bots that make life easier.
+> Heavily inspired by anime, especially the **Persona series** — hence the aesthetic. 🎭
 
 <div align="center">
 
@@ -77,23 +80,9 @@
 
 </div>
 
-> 🐍 **Snake animation** — ต้องตั้ง GitHub Actions แยก ดูวิธีด้านล่าง
-
 ---
 
-## `[ 06 ]` NOW PLAYING
-
-<div align="center">
-
-[![spotify](https://novatorem-sojjyuu.vercel.app/api/spotify)](https://open.spotify.com/user/sojjyuu)
-
-> 🎵 **Spotify widget** — ต้อง deploy [novatorem](https://github.com/novatorem/novatorem) ด้วย Vercel แยก ดูวิธีด้านล่าง
-
-</div>
-
----
-
-## `[ 07 ]` SIDE PROJECTS
+## `[ 06 ]` SIDE PROJECTS
 
 ```
 PROJECT // 01 · FEATURED ─────────────────────────────────────────
@@ -115,7 +104,7 @@ Cross-platform mobile app — iOS & Android
 
 ---
 
-## `[ 08 ]` SOCIALS
+## `[ 07 ]` SOCIALS
 
 <div align="center">
 
