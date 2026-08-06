@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Sojjyuu — Developer, Designer and Creator</title>
+  <desc id="desc">A dark cyber-inspired profile banner with cyan and pink accents.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050810"/>
+      <stop offset="0.52" stop-color="#0a111c"/>
+      <stop offset="1" stop-color="#08090f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#31ddf4"/>
+      <stop offset="0.55" stop-color="#6ab7ff"/>
+      <stop offset="1" stop-color="#ff7da7"/>
+    </linearGradient>
+    <radialGradient id="cyanGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#11cce8" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#11cce8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="pinkGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ff719f" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#ff719f" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#a8c7d2" stroke-opacity=".07"/>
+    </pattern>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <ellipse cx="180" cy="62" rx="330" ry="230" fill="url(#cyanGlow)"/>
+  <ellipse cx="1080" cy="315" rx="390" ry="250" fill="url(#pinkGlow)"/>
+
+  <g fill="none" stroke-linecap="round">
+    <path d="M-40 298C180 215 315 390 535 300S850 230 1240 95" stroke="url(#accent)" stroke-opacity=".15" stroke-width="70"/>
+    <path d="M-30 312C185 222 327 387 540 305S865 237 1230 105" stroke="url(#accent)" stroke-opacity=".7" stroke-width="2"/>
+    <path d="M850 48h302M925 68h227" stroke="#ff7da7" stroke-opacity=".35"/>
+    <path d="M48 292h255M48 310h176" stroke="#31ddf4" stroke-opacity=".35"/>
+  </g>
+
+  <g transform="translate(910 92)">
+    <circle cx="104" cy="88" r="106" fill="#071019" stroke="#31ddf4" stroke-opacity=".24"/>
+    <circle cx="104" cy="88" r="78" fill="none" stroke="#ff7da7" stroke-opacity=".22" stroke-dasharray="5 10"/>
+    <path d="M104-26v20M104 182v20M-10 88h20M198 88h20" stroke="#eafaff" stroke-opacity=".35"/>
+    <text x="104" y="118" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="800" text-anchor="middle" filter="url(#softGlow)">S</text>
+    <circle cx="182" cy="19" r="5" fill="#ff7da7"/>
+    <circle cx="24" cy="155" r="4" fill="#31ddf4"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="62" fill="#7c95a0" font-size="13" font-weight="700" letter-spacing="3">PROFILE // 2026</text>
+    <text x="60" y="174" fill="#f4fbff" font-size="80" font-weight="800" letter-spacing="6">SOJJYUU</text>
+    <rect x="63" y="193" width="418" height="4" rx="2" fill="url(#accent)"/>
+    <text x="64" y="231" fill="#a9c0ca" font-size="18" letter-spacing="4">DEVELOPER  ×  DESIGNER  ×  CREATOR</text>
+    <text x="64" y="272" fill="#718994" font-size="14" letter-spacing="2">BUILDING PLAYFUL DIGITAL EXPERIENCES FROM KHON KAEN, TH</text>
+
+    <g font-size="12" font-weight="700" letter-spacing="1.4">
+      <rect x="64" y="304" width="118" height="30" rx="15" fill="#0e2530" stroke="#31ddf4" stroke-opacity=".45"/>
+      <text x="123" y="324" fill="#79edfc" text-anchor="middle">MOBILE</text>
+      <rect x="192" y="304" width="118" height="30" rx="15" fill="#171c2c" stroke="#6ab7ff" stroke-opacity=".45"/>
+      <text x="251" y="324" fill="#93c8ff" text-anchor="middle">UI / UX</text>
+      <rect x="320" y="304" width="118" height="30" rx="15" fill="#28151f" stroke="#ff7da7" stroke-opacity=".45"/>
+      <text x="379" y="324" fill="#ff9dbc" text-anchor="middle">CREATIVE</text>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#a9d9e5" stroke-opacity=".16" stroke-width="2"/>
+</svg>
